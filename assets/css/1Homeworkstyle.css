@@ -1,0 +1,120 @@
+/* GENERAL STYLES */
+
+.header{
+    margin-top: auto;
+    margin-left: auto;
+    text-
+}
+body {
+    background-color: #c7b426;
+    font-family: "Georgia" , "Times New Roman", "Times";
+    font-size: 20px;
+    line-height:150%;
+    font-weight: 30%;
+    margin-top: auto;
+}
+
+p {
+    background-color: maroon;
+    text-justify: auto;
+    text-align: center;
+    font-size: 30px;
+    line-height:150%;
+    font-weight: 30%;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Odibee Sans', cursive;
+    
+    
+}
+
+
+/*SIZE*/
+
+
+#img1,#img2,#img3 {
+    width: 400px;
+    height: 400px;     
+    float:left;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+}
+
+.hero div{
+    clear:both;
+}
+
+
+#img4,#img5,#img6 {
+    width: 250px;
+    height: 250px;
+}
+
+
+/*box*/
+
+.search-engine-optimization,.online-reputation-management, .social-media-marketing  {
+    width: fit-content;
+    text-align: center;
+
+}
+
+
+
+.hero {
+    width: 60%;;
+    border: black 25px;
+    border-style: solid;
+    background-color: rgb(65, 211, 65);
+    padding-bottom: 176px;
+   
+}
+
+
+
+
+.benefits {
+    width: 30%;
+    border: black 25px;
+    border-style: solid;
+    background-color: rgb(13, 116, 116);
+    padding-bottom: 1.5% ;
+    text-align: center;
+    }
+
+.footer {
+    width: 92%;
+    background-color: lightcoral;
+    border: black 33px;
+    border-style: solid;
+    text-align: center;
+    
+
+}
+
+
+
+/*Float*/
+
+.hero {
+    float: left;
+    
+}
+
+
+.benefits {
+    float: left;
+    overflow: auto;
+}
+
+.footer {
+    float: left;
+}
+
+.p {
+    float: right;
+    overflow: auto;
+}
+
+
+
+
+
+
